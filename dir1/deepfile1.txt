@@ -1,1 +1,2 @@
-Example file in a directory
+
+More changes in Deepfile 
